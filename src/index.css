@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.head{
+  border: 2px solid black;
+  display: flex;
+
+}
+ .logo{
+height: 120px;
+width: 200px;
+margin-left: 20px;
+}
+.head>ul{
+  display: flex;
+  padding: 20px;
+ 
+
+}
+.head>ul>li{
+  list-style: none;;
+margin: 20px; 
+
+}
+.cards{
+  border: 2px solid black;
+  margin: 10px;
+  height: 280px;
+width: 163px;
+
+}
+.restro_Image{
+  
+  width: 100%;
+  
+}
+.restrolist{
+  display: flex;
+  flex-wrap: wrap;
+}
